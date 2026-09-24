@@ -1,0 +1,10 @@
+# OS / editors
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Secrets
+.env
+.env.*
+*.key
