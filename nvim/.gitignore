@@ -1,0 +1,7 @@
+# Swap y backup
+*.swp 
+*.swo
+*.bak
+
+packer_compiled.lua
+.nvim/
